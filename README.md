@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-![Header Image](https://github.com/Ape12b/Ape12b.github.io/blob/main/images/WhatsApp%20Image%202024-10-15%20at%2018.04.03.jpeg)
+![Header Image](https://github.com/Ape12b/Ape12b.github.io/blob/main/header_profile.webp)
 
 Hello, I'm **Apratim**.
 
