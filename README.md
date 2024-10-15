@@ -25,6 +25,13 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/youru
 - **Data Processing:** Pandas, NumPy, Apache Airflow  
 - **Cloud Platforms:** Microsoft Azure 
 
+### 📜 Licenses & Certifications
+
+- [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/67fbcc07-45c0-424c-abca-75fb2b474fa0/linked_in_profile)  
+- [Data Analyst Professional Certificate - DataCamp](https://www.datacamp.com/certificate/DA0027349171777)  
+- [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VMZQ44UEJEB8)  
+- [TensorFlow Developer Certificate](https://www.credential.net/1008878c-2a31-4ffa-8e87-b07fb9754fc4)  
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apratim-bajpai)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://Ape12b.github.io)
