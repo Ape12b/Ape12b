@@ -18,9 +18,12 @@ Hello, I'm **Apratim**.
 Welcome to my portfolio, where I showcase my [projects](https://github.com/yourusername?tab=repositories).
 
 ## 🛠 Tools
-- **Languages**: SQL, Python
-- **Databases**: Google BigQuery, PostgreSQL, MySQL
-- **Visualization**: Tableau, Looker Studio
+- **Languages:** Python, MATLAB, SQL  
+- **Databases:** Azure SQL, Google BigQuery, MySQL  
+- **Visualization:** Tableau, Power BI, Looker Studio  
+- **Machine Learning:** TensorFlow, scikit-learn, PyTorch  
+- **Data Processing:** Pandas, NumPy, Apache Airflow  
+- **Cloud Platforms:** Microsoft Azure 
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apratim-bajpai)
