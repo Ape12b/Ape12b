@@ -15,7 +15,8 @@ Hello, I'm **Apratim**.
 
 
 ## 🌐 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/yourusername?tab=repositories).
+Welcome to my portfolio, where I showcase my projects.
+[Kidney disease classification with version control using MLFLOW and DVC.](https://github.com/Ape12b/kidney_disease_classification_MLFLOW.git).
 
 ## 🛠 Tools
 - **Languages:** Python, MATLAB, SQL  
