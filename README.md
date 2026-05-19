@@ -17,6 +17,7 @@ Hello, I'm **Apratim**.
 ## 🌐 Projects
 Welcome to my portfolio, where I showcase my projects.
 - [Kidney disease classification with version control using MLFLOW and DVC.](https://github.com/Ape12b/kidney_disease_classification_MLFLOW.git).
+- [TitanOps: End-to-End MLOps Deployment with Kubernetes, Azure Arc, and GitOps](https://github.com/Ape12b/k8s_az_classifier).
 
 ## 🛠 Tools
 - **Languages:** Python, MATLAB, SQL  
